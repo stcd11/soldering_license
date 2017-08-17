@@ -7,11 +7,11 @@
 #+END_COMMENT
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 #+TITLE: The Soldering License
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/soldering_license">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/soldering_license">Fork me on GitHub</a>
 </div>
 <center>
 <img src='img/done.jpg' width=33%>
@@ -167,44 +167,9 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Below is a list of components:
-| <c>       | <c>                                                       |       
-| Component | Description                                               |       
-|           |                                                           |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-| Resistor  | These act to reduce current flow, and, at the same        |
-|           | time, act to lower voltage levels within circuits         |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-| Diode     | This is a two-terminal electronic component that conducts |
-|           | primarily in one direction.                               |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-| Battery   | Transforms chemical energy into electricity.              |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-| Switch    | An electrical component that can break an electrical      |
-|           | circuit.                                                  |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-| LED       | A component which emits light when activated.             |
-|           |                                                           |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-| Lamp      | It produces light with a wire filament heated to a high   |
-|           | temperature by an electric current passing through it,    |
-|           | until it glows.                                           |
-|-----------+-----------------------------------------------------------|
-| Motor     | An electrical device that creates motion by converting    |
-|           | electrical energy to kinetic energy.                      |
-|           |                                                           |
-|-----------+-----------------------------------------------------------|
-
-- Open Word document, PowerPoint document or text editor and paste the table above into it. Then for each of the components above, *find a picture* of its circuit symbol
-- ...and *a photo* of the component.
-- There's a brief explanation of what the components does above, but it's not important at this stage that you learn these as you'll look at the components individually as you work through the year. For now, being able to know what you're looking at is our aim.
-- *Tip:* Google image search is quite handy for this activity, *use the snipping tool to get a copy of the image.*
+- To complete the badges you will need to click on the link at the bottom and complete the quiz. This will automatically badge your work.
+- *You will need to be logged into [[http://www.bournetolearn.com][www.bournetolearn.com]] to complete the badge.*
+- Click on this link [[https://www.bournetolearn.com/quizzes/y7-solderingLicense/Lesson_2/badge1/][components quiz]]
 
 * All about resistors
 :PROPERTIES:
@@ -254,26 +219,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Copy and paste this into an empty notepad document:
-
-#+begin_src exercise
-| Colours                      | Resistor value     |
-+------------------------------+--------------------+
-| Orange, Orange, Brown, Gold  |  330 Ohms          |
-+------------------------------+--------------------+
-| Brown, Black, Red            |                    |
-+------------------------------+--------------------+
-| Red, Yellow, Orange          |                    |
-+------------------------------+--------------------+
-| Purple, Green, Black         |                    |
-+------------------------------+--------------------+
-|                              | 10,000 Ohms (10k)  |
-+------------------------------+--------------------+
-|                              | 61 Ohms            |
-+------------------------------+--------------------+
-|                              | 100 Ohms           |
-#+end_src 
-
-- To collect the badge, complete the table with the correct resistor values.
-- Save the competed work in your Systems and Control folder for this project as '*resistorvalues.txt*', and upload it to BourneToLearn.com for marking.
+- To complete the badges you will need to click on the link at the bottom and complete the quiz. This will automatically badge your work.
+- *You will need to be logged into [[http://www.bournetolearn.com][www.bournetolearn.com]] to complete the badge.*
+- Click on this link [[https://www.bournetolearn.com/quizzes/y7-solderingLicense/Lesson_2/badge2/][resistor colour code quiz]]
 [[./index.html][Back to homepage]]

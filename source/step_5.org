@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 #+TITLE: Gluing the Magnet
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/soldering_license">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/soldering_license">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -101,4 +101,10 @@ We're nearly there now, you have completed all the soldering for the 'soldering 
 [[./img/pcbandmagnet.jpg]]
 - Now you can stick the PCB on your fridge at home.
 - *Make sure there are no component legs that stick out past the magnet, as this might scratch your fridge.* 
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Once you have completed your project, take pictures of both sides of the board and upload them to [[http://www.bournetolearn.com][www.bournetolearn.com]]
 

@@ -7,11 +7,11 @@
 #+END_COMMENT
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 #+TITLE: The Soldering License
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/soldering_license">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/soldering_license">Fork me on GitHub</a>
 </div>
 <center>
 <img src='img/done.jpg' width=33%>
