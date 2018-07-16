@@ -45,6 +45,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+* [[./evaluation.html][Lesson 8 - Evaluation]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
 * [[./assess.html][Achievements - the Badges]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
