@@ -119,7 +119,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For your current project, indentify *and explain* 2 tasks that you feel went very well?
+- For your current project, identify *and explain* 2 tasks that you feel went very well?
 - Now identify 2 tasks that you feel did not go well *and why*?
 - How would you improve on the above 2 tasks if you were to build the project again?
 ** Platinum
