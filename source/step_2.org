@@ -156,7 +156,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- You'll use lots of different components in S&C.
+- You'll use lots of different components in Design Engineering.
 - It's quite important to be able to know which ones are which.
 - For one of your badge tasks, you'll need to go online and independently research some of the most common components.
 - All electronic components that you'll use have what are called circuit symbols. These are simple drawings that allow experienced engineers to share circuit designs with one another. 
