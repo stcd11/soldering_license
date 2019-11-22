@@ -184,7 +184,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 - As the components are small, engineers realised a long time ago that writing the value of the resistor on the component wasn't practical, so instead they developed a system using coloured bands. We'll look at this now.
 - When you hold a resistor in your hand, have the gold band facing right. The gold band indicates that these are high-quality resistors, which are accurate to +/-5%. If they had a silver band, they'd only be +/-10%. 
 - The colour scheme more or less follows the colours of the rainbow, but with some quirks.
-
+[[./img/Resistor_colour.png]]
 | Colour | Value |
 |--------+-------|
 | Black  |     0 |
