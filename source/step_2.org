@@ -147,7 +147,10 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 
 - *Step 4:* Use a side-cutter to remove the excess leg sticking out of the board. Picture 4 shows a couple more components placed, too - we'll add these in a moment.
 [[./img/soldering.jpg]]
-
+- Here is another video on soldering from Manchester University.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AqvHogekDI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
 * Components
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
