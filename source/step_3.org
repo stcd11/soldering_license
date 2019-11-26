@@ -84,7 +84,7 @@ In the last lesson, you looked at the theory of resistors, and soldered your fir
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
 :END:
-- Go to the compent racks, and take out the following resistors, you'll be using. The values you need are: 5 X 330, 5 X 1k, 6 X 22k.
+- Go to the compent racks, and take out the following resistors, you'll be using. The values you need are: 4 X 330, 4 X 1k, 5 X 22k.
 - You should now be able to identify which is which by their coloured bands. Start with the 330 Ohm resistors, poking the wire legs through the hole above and below the number 330 on the PCB. Remember that the component should sit on the top of the board (with no writing on it), and the legs should stick out of the side with the tracks and pads on. Resistors can be soldered in either way round, but it looks more professional if all the gold bands line up, like mine to in the photo below.
 - Make sure the resistor is laying flat against the board, then gently angle the legs out at 45 degrees to stop the component from falling out of the board while it's being soldered.
 - Just like before, put the board in the bulldog clip on the soldering iron stand to hold it steady, solder the two legs and then use a side-cutter to trim them.
