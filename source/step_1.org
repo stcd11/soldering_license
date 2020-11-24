@@ -109,7 +109,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-- Systems & Control is a superb for taking your maths and physics skills, and applying them to problems in the real world.
+- Design Engineering is a superb for taking your maths and physics skills, and applying them to problems in the real world.
 - You'll develop creativity, problem-solving and practical skills throughout the course, make some excellent products to keep forever, and hopefully enjoy yourself along the way.
 - Before we get stuck into anything practical, we need to consider Health & Safety - sensible precautions we take in the Systems labs to avoid injury
 ** Try it
@@ -157,8 +157,8 @@ Equipment  Run  Throw  Apron  Hair  Goggles  Iron  Listen  Clothing
 
 - Using the words underneath the statements, fill in the missing spaces.
 - When finished:
-    - Make a 'Systems and Control' folder in your H: drive.
-    - Make a 'Year 7' folder inside it
+    - In your 'Year 7 - Design Engineering' folder you have created in your 'H' drive.
+    - Make a 'Soldering License' folder inside it
     - Make a '1 - Licence' folder inside that
     - Save your work in this folder, calling it '*Safety.txt*'
 - Upload the work to [[https://www.bournetolearn.com][www.BourneToLearn.com]] using the username and password your teacher has given you.
